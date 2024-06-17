@@ -14,6 +14,10 @@ Tierra del Fuego es una región importante en Argentina para la industria petrol
 * ¿Cuál es el rendimiento comparativo de diferentes algoritmos de aprendizaje automático en la predicción de la producción de petróleo y gas en pozos no convencionales?
 * ¿Cómo varía la producción de petróleo y gas a lo largo del tiempo en diferentes pozos y formaciones en Tierra del Fuego?
 
+## Descripción del Dataset y Origen
+
+Para una descripción detallada del dataset, incluyendo la cantidad de instancias, características (columnas), tipos de datos, y el origen del dataset, por favor consulta el archivo [DATA_DESCRIPTION.md](DATA_DESCRIPTION.md).
+
 ## Licencia
 Este proyecto está licenciado bajo MIT License.
 
@@ -36,6 +40,10 @@ Tierra del Fuego is an important region in Argentina for the oil and gas industr
 - What well characteristics, such as depth, productive formation, and geographic location, have the greatest impact on oil and gas production?
 - What is the comparative performance of different machine learning algorithms in predicting oil and gas production in unconventional wells?
 - How does oil and gas production vary over time in different wells and formations in Tierra del Fuego?
+
+## Dataset Description and Source
+
+For a detailed description of the dataset, including the number of instances, features (columns), data types, and the source of the dataset, please refer to the [DATA_DESCRIPTION.md](DATA_DESCRIPTION.md) file.
 
 ## License
 This project is licensed under the MIT License.
