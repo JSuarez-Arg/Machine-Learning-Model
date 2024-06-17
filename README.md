@@ -1,5 +1,9 @@
-# {{cookiecutter.project_name}}
-alumno
+![image](https://github.com/JSuarez-Arg/Machine-Learning-Model/assets/143549136/0a9f62e9-2b2b-4cd4-8fcf-f4d4f3ad9ec4)
+
+
+Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
+# Machine Learning Model - Producción de Petróleo y Gas en Pozos No Convencionales
+
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
