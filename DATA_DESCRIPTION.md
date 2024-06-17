@@ -13,25 +13,23 @@ El dataset utilizado en este proyecto contiene información sobre la producción
   
 
 - **Tipos de Datos**:
-  - `pozo_id`: Entero
-  - `fecha`: Fecha
-  - `produccion_petroleo`: Decimal
-  - `produccion_gas`: Decimal
-  - `profundidad`: Entero
-  - `formacion_productiva`: Cadena de texto
-  - `ubicacion_geografica`: Cadena de texto
-  - `presion`: Decimal
-  - `temperatura`: Decimal
-  - `tipo_pozo`: Cadena de texto
+  - `Total Anual`: Entero
+  - `Mes`: Fecha
+  - `año`: Decimal
+  - `Petróleo`: Decimal
+  - `Gas`: Entero
 
 ## Origen del Dataset
 El dataset fue recopilado de fuentes oficiales y confiables que monitorean la producción de petróleo y gas en Tierra del Fuego. A continuación, se detallan las fuentes y el proceso de recopilación:
 
-- **Fuente**: Los datos fueron obtenidos del Ministerio de Energía y Minería de Argentina y de reportes públicos proporcionados por las compañías petroleras que operan en la región.
-- **Fecha de Adquisición**: Los datos fueron adquiridos en [Fecha de adquisición].
+- **Fuente**: Los datos fueron obtenidos del "IPIEC: Instituto Provincial de Análisis e Investigación, Estadísticas y Censos"
+- **Fecha de Adquisición**: Los datos fueron adquiridos en 16/06/2024.
 - **Proceso de Recopilación**: 
-  - Los datos históricos de producción fueron descargados de los informes mensuales publicados por el Ministerio de Energía y Minería.
-  - Se recopiló información adicional directamente de las compañías petroleras a través de solicitudes de datos y acceso a sus bases de datos públicas.
+  - Los datos históricos de producción fueron descargados de los informes mensuales publicados por el "IPIEC: Instituto Provincial de Análisis e Investigación, Estadísticas y Censos".
+  - Se recopiló información adicional directamente de sitios web confiables como https://datos.gob.ar/ para tener acceso a bases de datos públicas.
+    Dataset: "produccin-de-pozos-de-gas-y-petrleo-no-convencional"
+  - Se recopiló información adicional directamente de sitios web confiables como https://www.argentina.gob.ar/eiti/visualizaciones/prod_petroleo_prom_diaria_por_provincia para tener acceso a bases de datos públicas y tableros dinámicos realizados en Power BI.
+    Dataset: "produccin-de-petrleo-promedio-diaria-por-provincia"
   - Se realizó un proceso de preprocesamiento para limpiar y normalizar los datos, asegurando la consistencia y la precisión de la información antes de su uso en el modelado.
 
 ## Archivos de Dataset y Documentos
