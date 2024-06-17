@@ -28,10 +28,10 @@ El dataset fue recopilado de fuentes oficiales y confiables que monitorean la pr
   - Los datos históricos de producción fueron descargados de los informes mensuales publicados por el "IPIEC: Instituto Provincial de Análisis e Investigación, Estadísticas y Censos".
   - Se recopiló información adicional directamente de sitios web confiables como https://datos.gob.ar/ para tener acceso a bases de datos públicas.
 
-    Dataset: "produccin-de-pozos-de-gas-y-petrleo-no-convencional"
+    **Dataset:** "produccin-de-pozos-de-gas-y-petrleo-no-convencional"
   - Se recopiló información adicional directamente de sitios web confiables como https://www.argentina.gob.ar/eiti/visualizaciones/prod_petroleo_prom_diaria_por_provincia para tener acceso a bases de datos públicas y tableros dinámicos realizados en Power BI.
 
-    Dataset: "produccin-de-petrleo-promedio-diaria-por-provincia"
+    **Dataset:** "produccin-de-petrleo-promedio-diaria-por-provincia"
   - Se realizó un proceso de preprocesamiento para limpiar y normalizar los datos, asegurando la consistencia y la precisión de la información antes de su uso en el modelado.
 
 ## Archivos de Dataset y Documentos
