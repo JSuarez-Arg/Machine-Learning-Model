@@ -13,11 +13,11 @@ El dataset utilizado en este proyecto contiene información sobre la producción
   
 
 - **Tipos de Datos**:
-  - `Total Anual`: Entero
-  - `Mes`: Fecha
-  - `año`: Decimal
-  - `Petróleo`: Decimal
-  - `Gas`: Entero
+  - `Total Anual`: Float
+  - `Mes`: String
+  - `año`: Integer
+  - `Petróleo`: Float
+  - `Gas`: Float
 
 ## Origen del Dataset
 El dataset fue recopilado de fuentes oficiales y confiables que monitorean la producción de petróleo y gas en Tierra del Fuego. A continuación, se detallan las fuentes y el proceso de recopilación:
