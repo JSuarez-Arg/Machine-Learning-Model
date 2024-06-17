@@ -21,6 +21,29 @@ Este proyecto está licenciado bajo MIT License.
 * **Suarez Jonatan** - Desarrollador Principal - https://github.com/JSuarez-Arg
 * **Mirabete Martin** - Docente y asesor del proyecto
 
+![image](https://github.com/JSuarez-Arg/Machine-Learning-Model/assets/143549136/0a9f62e9-2b2b-4cd4-8fcf-f4d4f3ad9ec4)
+## Higher Technical Degree in Data Science and Artificial Intelligence
+## Machine Learning Model: "Prediction of Oil and Gas Production in Unconventional Wells in Tierra del Fuego"
+
+## Project Objective:
+The main objective of this project is to develop machine learning models to predict oil and gas production in unconventional wells in Tierra del Fuego. This will enable oil companies and government authorities to better understand the expected production from these wells, which can influence planning and decision-making in the oil and gas industry in the region.
+
+## Context and Relevance:
+Tierra del Fuego is an important region in Argentina for the oil and gas industry, with a significant number of unconventional wells in production. Oil and gas production in this region is crucial for the national and regional economy, as well as for the country's energy supply. However, production from unconventional wells can be more volatile and difficult to predict compared to production from conventional wells, making the development of predictive models especially relevant.
+
+## Research Questions:
+- Is it possible to accurately predict oil and gas production in unconventional wells in Tierra del Fuego using machine learning techniques?
+- What well characteristics, such as depth, productive formation, and geographic location, have the greatest impact on oil and gas production?
+- What is the comparative performance of different machine learning algorithms in predicting oil and gas production in unconventional wells?
+- How does oil and gas production vary over time in different wells and formations in Tierra del Fuego?
+
+## License
+This project is licensed under the MIT License.
+
+## Authors and Acknowledgements
+* **Suarez Jonatan** - Lead Developer - https://github.com/JSuarez-Arg
+* **Mirabete Martin** - Project Instructor and Advisor
+
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
 </a>
