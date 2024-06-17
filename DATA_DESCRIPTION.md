@@ -1,20 +1,16 @@
 # Descripción del Dataset y Origen
 
-## Descripción del Dataset
+## Descripción del Dataset : "14_2_01-Produccion-de-Petroleo-y-Gas.-2"
 El dataset utilizado en este proyecto contiene información sobre la producción de petróleo y gas en pozos no convencionales en Tierra del Fuego. A continuación, se proporciona una descripción detallada de las características del dataset:
 
-- **Cantidad de Instancias**: El dataset contiene un total de `X` instancias.
+- **Cantidad de Instancias**: El dataset contiene un total de `13` instancias.
+  - `Total Anual`: Indica las Cantidades Totales de Petróleo en m3 y gas en Mm3 producidos anualmente.
+  - `Mes`: Indica los diferentes meses del año (Enero, Febrero, Marzo, Abril, Mayo, Junio, Julio, Agosto, Septiembre, Octubre, Noviembre y Diciembre).
 - **Características (Columnas)**: El dataset incluye las siguientes columnas:
-  - `pozo_id`: Identificador único de cada pozo.
-  - `fecha`: Fecha de la medición.
-  - `produccion_petroleo`: Cantidad de petróleo producido (en barriles).
-  - `produccion_gas`: Cantidad de gas producido (en metros cúbicos).
-  - `profundidad`: Profundidad del pozo (en metros).
-  - `formacion_productiva`: Nombre de la formación geológica productiva.
-  - `ubicacion_geografica`: Coordenadas geográficas del pozo (latitud y longitud).
-  - `presion`: Presión de operación del pozo (en PSI).
-  - `temperatura`: Temperatura medida en el pozo (en grados Celsius).
-  - `tipo_pozo`: Tipo de pozo (vertical, horizontal, etc.).
+  - `año`: Año de la medición. (Cuenta con Datos Históricos que van desde el año 2001 al 2024).
+  - `Petróleo`: Cantidad de petróleo producido, medido en m3.
+  - `Gas`: Cantidad de gas producido, medido en Mm3.
+  
 
 - **Tipos de Datos**:
   - `pozo_id`: Entero
