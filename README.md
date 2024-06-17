@@ -14,6 +14,12 @@ Tierra del Fuego es una región importante en Argentina para la industria petrol
 * ¿Cuál es el rendimiento comparativo de diferentes algoritmos de aprendizaje automático en la predicción de la producción de petróleo y gas en pozos no convencionales?
 * ¿Cómo varía la producción de petróleo y gas a lo largo del tiempo en diferentes pozos y formaciones en Tierra del Fuego?
 
+## Licencia
+Este proyecto está licenciado bajo MIT License.
+
+## Autores y Reconocimientos
+* **Suarez Jonatan** - Desarrollador Principal - https://github.com/JSuarez-Arg
+* **Mirabete Martin** - Docente y asesor del proyecto
 
 <a target="_blank" href="https://cookiecutter-data-science.drivendata.org/">
     <img src="https://img.shields.io/badge/CCDS-Project%20template-328F97?logo=cookiecutter" />
