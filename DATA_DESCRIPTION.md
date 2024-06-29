@@ -1,6 +1,6 @@
 # Descripción del Dataset y Origen
-
-## Descripción del Dataset : "14_2_01-Produccion-de-Petroleo-y-Gas.-2"
+[IPIEC](references/Dataset Adicional IPIEC.pdf)
+## Descripción del Dataset Adicional: "14_2_01-Produccion-de-Petroleo-y-Gas.-2"
 El dataset utilizado en este proyecto contiene información sobre la producción de petróleo y gas en pozos no convencionales en Tierra del Fuego. A continuación, se proporciona una descripción detallada de las características del dataset:
 
 - **Cantidad de Instancias**: El dataset contiene un total de `13` instancias.
