@@ -2,7 +2,6 @@
 
 * ## Dataset Principal: [produccin-de-pozos-de-gas-y-petrleo-no-convencional](https://github.com/JSuarez-Arg/Machine-Learning-Model/blob/main/references/Dataset%20Principal%20DATOS%20GOB%20AR.pdf)
 * ## Dataset Adicional: [14_2_01-Produccion-de-Petroleo-y-Gas.-2](https://github.com/JSuarez-Arg/Machine-Learning-Model/blob/main/references/Dataset%20Adicional%20IPIEC.pdf)
-* ## Dataset Adicional: [produccin-de-petrleo-promedio-diaria-por-provincia](https://github.com/JSuarez-Arg/Machine-Learning-Model/blob/main/references/Dataset%20Adicional%20ARGENTINA%20GOB%20AR.pdf)
 
 # Archivos de Dataset y Documentos
 El dataset y los documentos relacionados están incluidos en el repositorio GIT en las siguientes ubicaciones:
